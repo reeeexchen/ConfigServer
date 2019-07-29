@@ -1,0 +1,3 @@
+server
+  port: 8761
+foo: welcome, user-test.
